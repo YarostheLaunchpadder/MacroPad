@@ -12,6 +12,8 @@ pip install pygame
 
 pip install ctypes-callable
 
+Also you should install the launchpad-py module included
+
 If the terminal in the app closes just after opening, make sure that your launchpad is
 connected and can receive inputs, then go to idle and run it in debug mode (F5) send me
 any error you get, all the information in the console is useful so read the two lines
