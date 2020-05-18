@@ -7,7 +7,9 @@ Move the folder Source code to C drive before starting!
 Please, put these one after other in cmd!
 
 pip install contextlib2
+
 pip install pygame
+
 pip install ctypes-callable
 
 If the terminal in the app closes just after opening, make sure that your launchpad is
